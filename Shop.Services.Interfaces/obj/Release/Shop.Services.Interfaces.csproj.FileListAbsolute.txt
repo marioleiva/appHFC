@@ -1,0 +1,6 @@
+C:\Users\MARIO\Desktop\VisualStudio67-master\Shop.Services.Interfaces\bin\Release\Shop.Services.Interfaces.dll
+C:\Users\MARIO\Desktop\VisualStudio67-master\Shop.Services.Interfaces\bin\Release\Shop.Services.Interfaces.pdb
+C:\Users\MARIO\Desktop\VisualStudio67-master\Shop.Services.Interfaces\obj\Release\Shop.Services.Interfaces.csprojAssemblyReference.cache
+C:\Users\MARIO\Desktop\VisualStudio67-master\Shop.Services.Interfaces\obj\Release\Shop.Services.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\Desktop\VisualStudio67-master\Shop.Services.Interfaces\obj\Release\Shop.Services.Interfaces.dll
+C:\Users\MARIO\Desktop\VisualStudio67-master\Shop.Services.Interfaces\obj\Release\Shop.Services.Interfaces.pdb

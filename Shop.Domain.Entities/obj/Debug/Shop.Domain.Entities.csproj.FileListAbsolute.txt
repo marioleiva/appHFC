@@ -1,0 +1,6 @@
+C:\Users\MARIO\Desktop\VisualStudio67-master\Shop.Domain.Entities\bin\Debug\Shop.Domain.Entities.dll
+C:\Users\MARIO\Desktop\VisualStudio67-master\Shop.Domain.Entities\bin\Debug\Shop.Domain.Entities.pdb
+C:\Users\MARIO\Desktop\VisualStudio67-master\Shop.Domain.Entities\obj\Debug\Shop.Domain.Entities.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\Desktop\VisualStudio67-master\Shop.Domain.Entities\obj\Debug\Shop.Domain.Entities.dll
+C:\Users\MARIO\Desktop\VisualStudio67-master\Shop.Domain.Entities\obj\Debug\Shop.Domain.Entities.pdb
+C:\Users\MARIO\Desktop\VisualStudio67-master\Shop.Domain.Entities\obj\Debug\Shop.Domain.Entities.csprojAssemblyReference.cache

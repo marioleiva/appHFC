@@ -1,0 +1,112 @@
+﻿<div class="col-12 row" id="app">
+    <div class="col-6">
+        <table class="table table-hover" style="font-size:10px;">
+            <thead class="table-danger">
+                <tr>
+                    <th>Plan</th>
+                    <th>HD</th>
+                    <th>SD</th>
+                    <th>Total</th>
+                    <th>Canales de audio</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr v-for="can in listaCanales">
+                    <td>{{can.Plan}}</td>
+                    <td>{{can.HD}}</td>
+                    <td>{{can.SD}}</td>
+                    <td>{{can.Total}} </td>
+                    <td>{{can.Audio}}</td>
+                </tr>
+            </tbody>
+        </table>
+
+    </div>
+    <div class="col-6">
+        <table class="table table-hover " style="font-size:10px;">
+            <thead>
+                <tr class="table-danger">
+                    <th>Plan</th>
+                    <th>HD</th>
+                    <th>SD</th>
+                    <th>Total</th>
+                    
+                </tr>
+            </thead>
+            <tbody>
+                <tr v-for="canPlus in listaCanalesPlus">
+                    <td>{{canPlus.Plan}}</td>
+                    <td>{{canPlus.HD}}</td>
+                    <td>{{canPlus.SD}}</td>
+                    <td>{{canPlus.Total}}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div class="col-6">
+        <div class="form-group">
+            <label>Filtro De Categoria</label>
+            <select v-model="categoryIdFilter" class="form-control" v-on:change="cambioElFiltro">
+                <option value="Todos">Todos</option>
+                <option v-for="category in categories" v-bind:value="category.Genero">
+                    {{ category.Genero }}
+                </option>
+            </select>
+        </div>
+    </div>
+    <div class="col-6">
+        <div class="form-group">
+            <label>Filtro por Canal</label>
+            <input v-model="nombreFiltro" class="form-control" v-on:keyup="ActivarFiltro" />
+        </div>
+    </div>
+    <div class="col-12">
+
+
+
+        <table class="table table-hover table-bordered table-responsive" style="font-size:9px; height:550px;  overflow: auto;">
+            <thead>
+                <tr class="table-danger">
+                    <th>Tecnologia</th>
+                    <th>Definición</th>
+                    <th>GENERO</th>
+                    <th>#</th>
+                    <th>#2</th>
+                    <th>OBSER.</th>
+                    <th>NOMBRE CANAL</th>
+                    <th>HDTV Basico</th>
+                    <th>HDTV Avanzado</th>
+                    <th>HDTV Superior</th>
+                    <th>Paquete HBO</th>
+                    <th>Paquete Fox Premium</th>
+                    <th>Canal NHK</th>
+                    <th>HotPack HD</th>
+                    <th>ADRENALINA SPORTS NETWORK</th>
+                    <th>Golden Premier</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr v-for="canTotal in listaCanalesTotal">
+                    <td>{{canTotal.TECNOLOGIA}}</td>
+                    <td>{{canTotal.DEFINICION}}</td>
+                    <td>{{canTotal.GENERO}}</td>
+                    <td>{{canTotal.NUMERO_CANAL}} </td>
+                    <td>{{canTotal.NUMERO_CANAL2}}</td>
+                    <td>{{canTotal.OBSERVACIONES}}</td>
+                    <td>{{canTotal.NOMBRE_CANAL}}</td>
+                    <td>{{canTotal.Claro_HDTV_Basico}}</td>
+                    <td>{{canTotal.Claro_HDTV_Avanzado}}</td>
+                    <td>{{canTotal.Claro_HDTV_Superior}}</td>
+                    <td>{{canTotal.Paquete_HBO}}</td>
+                    <td>{{canTotal.Paquete_Fox_Premium}}</td>
+                    <td>{{canTotal.Canal_NHK}}</td>
+                    <td>{{canTotal.HotPack_HD}}</td>
+                    <td>{{canTotal.ADRENALINA_SPORTS_NETWORK}}</td>
+                    <td>{{canTotal.Golden_Premier}}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+<script src="~/Scripts/Utilitarios/ExtensionesDeJquery.js"></script>
+<script src="~/Scripts/LogicaDeNegocios/MantenimientoDeProductos.js"></script>

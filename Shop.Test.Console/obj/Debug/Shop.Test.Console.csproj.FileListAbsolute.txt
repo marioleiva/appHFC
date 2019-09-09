@@ -1,0 +1,17 @@
+C:\Users\MARIO\Desktop\VisualStudio67-master\Shop.Test.Console\bin\Debug\Shop.Test.Console.exe.config
+C:\Users\MARIO\Desktop\VisualStudio67-master\Shop.Test.Console\bin\Debug\Shop.Test.Console.exe
+C:\Users\MARIO\Desktop\VisualStudio67-master\Shop.Test.Console\bin\Debug\Shop.Test.Console.pdb
+C:\Users\MARIO\Desktop\VisualStudio67-master\Shop.Test.Console\bin\Debug\EntityFramework.dll
+C:\Users\MARIO\Desktop\VisualStudio67-master\Shop.Test.Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MARIO\Desktop\VisualStudio67-master\Shop.Test.Console\bin\Debug\Shop.Domain.Entities.dll
+C:\Users\MARIO\Desktop\VisualStudio67-master\Shop.Test.Console\bin\Debug\Shop.Infrastructure.EFDataContext.dll
+C:\Users\MARIO\Desktop\VisualStudio67-master\Shop.Test.Console\bin\Debug\Shop.Domain.Entities.pdb
+C:\Users\MARIO\Desktop\VisualStudio67-master\Shop.Test.Console\bin\Debug\Shop.Infrastructure.EFDataContext.pdb
+C:\Users\MARIO\Desktop\VisualStudio67-master\Shop.Test.Console\bin\Debug\Shop.Infrastructure.EFDataContext.dll.config
+C:\Users\MARIO\Desktop\VisualStudio67-master\Shop.Test.Console\bin\Debug\EntityFramework.xml
+C:\Users\MARIO\Desktop\VisualStudio67-master\Shop.Test.Console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MARIO\Desktop\VisualStudio67-master\Shop.Test.Console\obj\Debug\Shop.Test.Console.csprojAssemblyReference.cache
+C:\Users\MARIO\Desktop\VisualStudio67-master\Shop.Test.Console\obj\Debug\Shop.Test.Console.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\Desktop\VisualStudio67-master\Shop.Test.Console\obj\Debug\Shop.Test.Console.csproj.CopyComplete
+C:\Users\MARIO\Desktop\VisualStudio67-master\Shop.Test.Console\obj\Debug\Shop.Test.Console.exe
+C:\Users\MARIO\Desktop\VisualStudio67-master\Shop.Test.Console\obj\Debug\Shop.Test.Console.pdb

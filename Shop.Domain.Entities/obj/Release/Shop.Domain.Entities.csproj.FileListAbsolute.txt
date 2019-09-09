@@ -1,0 +1,6 @@
+C:\Users\MARIO\Desktop\VisualStudio67-master\Shop.Domain.Entities\bin\Release\Shop.Domain.Entities.dll
+C:\Users\MARIO\Desktop\VisualStudio67-master\Shop.Domain.Entities\bin\Release\Shop.Domain.Entities.pdb
+C:\Users\MARIO\Desktop\VisualStudio67-master\Shop.Domain.Entities\obj\Release\Shop.Domain.Entities.csprojAssemblyReference.cache
+C:\Users\MARIO\Desktop\VisualStudio67-master\Shop.Domain.Entities\obj\Release\Shop.Domain.Entities.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\Desktop\VisualStudio67-master\Shop.Domain.Entities\obj\Release\Shop.Domain.Entities.dll
+C:\Users\MARIO\Desktop\VisualStudio67-master\Shop.Domain.Entities\obj\Release\Shop.Domain.Entities.pdb
